@@ -8,6 +8,8 @@
 * State changes with events
 ### References
 https://docs.soliditylang.org/en/latest/contracts.html#events
+
+https://dev.to/hideckies/ethers-js-cheat-sheet-1h5j
 ### Code reference
 <pre><code>    event NewVoter(address indexed voter);
 
